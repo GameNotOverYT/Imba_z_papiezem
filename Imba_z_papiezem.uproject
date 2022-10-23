@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D77C0642-4596-7B8E-186C-B19ACAD71113}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "DiscordRichPresence",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/bea6edf5f297438ca3e8340702749642"
+		},
+		{
+			"Name": "DiscordMessenger",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/2a1ca175da3e40e8bd54c7d00d135c1b"
+		}
+	]
+}
